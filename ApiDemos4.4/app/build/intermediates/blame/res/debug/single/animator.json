@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\animator\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\animator\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\animator\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\animator\\fragment_slide_left_enter.xml"
+    }
+]

@@ -1,0 +1,2677 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:22:1-2922:12
+INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:22:1-2922:12
+INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:22:1-2922:12
+	package
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:23:5-39
+		INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:22:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:25:5-72
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:25:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:26:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:27:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:28:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:29:22-64
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:30:5-72
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:30:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:32:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:33:5-70
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:33:22-67
+uses-permission#android.permission.NFC
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:34:5-62
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:34:22-59
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:37:5-71
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:37:22-68
+uses-permission#android.permission.CAMERA
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:42:5-65
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:42:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:43:5-60
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:43:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:44:5-95
+	android:required
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:44:68-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:44:19-67
+application
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:46:5-2916:19
+	android:supportsRtl
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:50:13-39
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:47:13-57
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:49:13-47
+	android:icon
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:48:13-53
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:46:18-52
+uses-library#com.example.will.never.exist
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:54:9-94
+	android:required
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:54:67-91
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:54:23-66
+activity#com.example.android.apis.ApiDemos
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:56:9-62:20
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:56:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:59:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:60:27-74
+activity#com.example.android.apis.app.HelloWorld
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:70:9-75:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:70:50-94
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:70:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.SAMPLE_CODE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:71:13-74:29
+category#android.intent.category.SAMPLE_CODE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:73:17-80
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:73:27-77
+activity#com.example.android.apis.app.DialogActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:77:9-84:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:78:17-56
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:79:17-65
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:77:19-53
+activity#com.example.android.apis.app.CustomDialogActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:86:9-93:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:87:17-63
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:88:17-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:86:19-59
+activity#com.example.android.apis.app.OverscanActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:95:9-103:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:98:17-60
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:96:17-58
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:97:17-79
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:95:19-55
+activity#com.example.android.apis.app.QuickContactsDemo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:105:8-111:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:106:17-60
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:105:18-55
+activity#com.example.android.apis.app.WallpaperActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:113:9-120:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:114:17-59
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:115:17-55
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:113:19-56
+activity#com.example.android.apis.app.TranslucentActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:122:9-129:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:123:17-61
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:124:17-57
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:122:19-58
+activity#com.example.android.apis.app.TranslucentBlurActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:131:9-138:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:132:17-66
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:133:17-57
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:131:19-62
+activity#com.example.android.apis.app.Animation
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:140:9-145:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:140:49-91
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:140:19-48
+activity#com.example.android.apis.app.SaveRestoreState
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:147:9-154:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:148:17-62
+	android:windowSoftInputMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:149:17-72
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:147:19-55
+activity#com.example.android.apis.app.PersistentState
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:156:9-163:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:157:17-60
+	android:windowSoftInputMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:158:17-72
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:156:19-54
+activity#com.example.android.apis.app.ActivityRecreate
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:165:9-172:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:167:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:166:17-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:165:19-55
+activity#com.example.android.apis.app.FinishAffinity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:174:9-182:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:177:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:175:17-65
+	android:taskAffinity
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:176:17-50
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:174:19-53
+activity#com.example.android.apis.app.SoftInputModes
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:184:9-190:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:185:17-57
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:184:19-53
+activity#com.example.android.apis.app.ReceiveResult
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:192:9-197:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:192:53-100
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:192:19-52
+activity#com.example.android.apis.app.SendResult
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:199:9-201:20
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:200:17-60
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:199:19-49
+activity#com.example.android.apis.app.Forwarding
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:203:9-208:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:203:50-93
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:203:19-49
+activity#com.example.android.apis.app.ForwardTarget
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:210:9-211:20
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:210:19-52
+activity#com.example.android.apis.app.RedirectEnter
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:213:9-218:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:213:53-94
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:213:19-52
+activity#com.example.android.apis.app.RedirectMain
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:220:9-221:20
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:220:19-51
+activity#com.example.android.apis.app.RedirectGetter
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:223:9-224:20
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:223:19-53
+activity#com.example.android.apis.app.CustomTitle
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:228:9-236:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:229:17-62
+	android:windowSoftInputMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:230:17-69
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:231:17-53
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:228:19-50
+activity#com.example.android.apis.app.ReorderOnLaunch
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:238:9-244:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:239:17-57
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:238:19-54
+activity#com.example.android.apis.app.RotationAnimation
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:246:9-252:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:247:17-68
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:246:19-56
+activity#com.example.android.apis.app.ReorderTwo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:254:9-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:254:19-49
+activity#com.example.android.apis.app.ReorderThree
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:255:9-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:255:19-51
+activity#com.example.android.apis.app.ReorderFour
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:256:9-53
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:256:19-50
+activity#com.example.android.apis.app.SetWallpaperActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:258:9-264:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:259:19-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:258:19-59
+activity#com.example.android.apis.app.ScreenOrientation
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:266:9-272:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:267:19-70
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:266:19-56
+activity#com.example.android.apis.app.PresentationActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:274:9-280:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:275:17-62
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:274:19-59
+activity#com.example.android.apis.app.PresentationWithMediaRouterActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:282:9-288:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:283:17-80
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:282:19-74
+activity#com.example.android.apis.app.SecureWindowActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:290:9-296:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:291:17-63
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:290:19-59
+activity#com.example.android.apis.app.SecureDialogActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:298:9-304:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:299:17-63
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:298:19-59
+activity#com.example.android.apis.app.SecureSurfaceViewActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:306:9-312:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:307:17-69
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:306:19-64
+activity#com.example.android.apis.app.FragmentAlertDialog
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:316:9-323:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:318:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:317:17-62
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:316:19-58
+activity#com.example.android.apis.app.FragmentArguments
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:325:9-332:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:327:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:326:17-59
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:325:19-56
+activity#com.example.android.apis.app.FragmentCustomAnimations
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:334:9-341:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:336:17-60
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:335:17-67
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:334:19-63
+activity#com.example.android.apis.app.FragmentHideShow
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:343:9-351:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:346:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:344:17-59
+	android:windowSoftInputMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:345:17-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:343:19-55
+activity#com.example.android.apis.app.FragmentContextMenu
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:353:9-360:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:355:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:354:17-62
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:353:19-58
+activity#com.example.android.apis.app.FragmentDialog
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:362:9-369:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:364:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:363:17-56
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:362:19-53
+activity#com.example.android.apis.app.FragmentDialogOrActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:371:9-378:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:373:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:372:17-68
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:371:19-63
+activity#com.example.android.apis.app.FragmentLayout
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:380:9-387:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:382:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:381:17-56
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:380:19-53
+activity#com.example.android.apis.app.FragmentLayout$DetailsActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:389:9-390:60
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:390:17-57
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:389:19-69
+activity#com.example.android.apis.app.FragmentListArray
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:392:9-399:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:394:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:393:17-60
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:392:19-56
+activity#com.example.android.apis.app.FragmentMenu
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:401:9-408:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:403:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:402:17-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:401:19-51
+activity#com.example.android.apis.app.FragmentNestingTabs
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:410:9-417:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:412:17-60
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:411:17-62
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:410:19-58
+activity#com.example.android.apis.app.FragmentRetainInstance
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:419:9-426:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:421:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:420:17-65
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:419:19-61
+activity#com.example.android.apis.app.FragmentReceiveResult
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:428:9-435:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:430:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:429:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:428:19-60
+activity#com.example.android.apis.app.FragmentStack
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:437:9-444:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:439:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:438:17-55
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:437:19-52
+activity#com.example.android.apis.app.FragmentTabs
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:446:9-453:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:448:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:447:17-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:446:19-51
+activity#com.example.android.apis.app.LoaderCursor
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:457:9-464:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:459:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:458:17-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:457:19-51
+activity#com.example.android.apis.app.LoaderCustom
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:466:9-473:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:468:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:467:17-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:466:19-51
+activity#com.example.android.apis.app.LoaderThrottle
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:476:9-483:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:478:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:477:17-56
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:476:19-53
+provider#com.example.android.apis.app.LoaderThrottle$SimpleProvider
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:484:9-486:62
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:486:19-59
+	android:authorities
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:485:19-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:484:19-68
+activity#com.example.android.apis.app.LoaderRetained
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:489:9-496:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:491:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:490:17-56
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:489:19-53
+activity#com.example.android.apis.app.Intents
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:500:9-505:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:500:47-87
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:500:19-46
+activity#com.example.android.apis.app.IntentActivityFlags
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:507:9-513:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:508:17-71
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:507:19-58
+service#com.example.android.apis.app.LocalService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:517:9-81
+	android:stopWithTask
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:517:51-78
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:517:18-50
+activity#com.example.android.apis.app.LocalServiceActivities$Controller
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:519:9-526:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:520:17-74
+	android:launchMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:521:17-47
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:519:19-72
+activity#com.example.android.apis.app.LocalServiceActivities$Binding
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:528:9-534:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:529:17-71
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:528:19-69
+service#com.example.android.apis.app.MessengerService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:537:9-538:45
+	android:process
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:538:17-42
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:537:18-54
+activity#com.example.android.apis.app.MessengerServiceActivities$Binding
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:541:9-547:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:542:17-75
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:541:19-73
+service#com.example.android.apis.app.RemoteService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:549:9-559:19
+	android:process
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:549:52-77
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:549:18-51
+intent-filter#action:name:com.example.android.apis.app.IRemoteService+action:name:com.example.android.apis.app.ISecondary+action:name:com.example.android.apis.app.REMOTE_SERVICE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:550:13-558:29
+action#com.example.android.apis.app.IRemoteService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:553:17-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:553:25-83
+action#com.example.android.apis.app.ISecondary
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:554:17-82
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:554:25-79
+action#com.example.android.apis.app.REMOTE_SERVICE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:557:17-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:557:25-83
+activity#com.example.android.apis.app.RemoteService$Controller
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:561:9-568:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:562:17-75
+	android:launchMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:563:17-47
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:561:19-63
+activity#com.example.android.apis.app.RemoteService$Binding
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:570:9-576:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:571:17-72
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:570:19-60
+activity#com.example.android.apis.app.RemoteService$BindingOptions
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:578:9-584:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:579:17-80
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:578:19-67
+service#com.example.android.apis.app.ServiceStartArguments
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:586:9-62
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:586:18-59
+activity#com.example.android.apis.app.ServiceStartArguments$Controller
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:588:9-595:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:589:17-84
+	android:launchMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:590:17-47
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:588:19-71
+service#com.example.android.apis.app.ForegroundService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:597:9-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:597:18-55
+activity#com.example.android.apis.app.ForegroundService$Controller
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:599:9-606:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:600:17-79
+	android:launchMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:601:17-47
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:599:19-67
+activity#com.example.android.apis.app.IsolatedService$Controller
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:608:9-616:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:611:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:609:17-77
+	android:launchMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:610:17-47
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:608:19-65
+service#com.example.android.apis.app.IsolatedService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:618:9-619:60
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:619:17-57
+	android:isolatedProcess
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:618:54-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:618:18-53
+service#com.example.android.apis.app.IsolatedService2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:620:9-621:60
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:621:17-57
+	android:isolatedProcess
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:620:55-85
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:620:18-54
+receiver#com.example.android.apis.app.OneShotAlarm
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:625:9-80
+	android:process
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:625:52-77
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:625:19-51
+receiver#com.example.android.apis.app.RepeatingAlarm
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:627:9-82
+	android:process
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:627:54-79
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:627:19-53
+activity#com.example.android.apis.app.AlarmController
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:629:9-634:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:629:55-104
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:629:19-54
+service#com.example.android.apis.app.AlarmService_Service
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:636:9-87
+	android:process
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:636:59-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:636:18-58
+activity#com.example.android.apis.app.AlarmService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:638:9-643:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:638:52-98
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:638:19-51
+activity#com.example.android.apis.accessibility.ClockBackActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:649:9-655:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:650:13-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:649:19-66
+service#com.example.android.apis.accessibility.ClockBackService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:657:9-663:19
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:658:13-64
+	android:permission
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:659:13-79
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:657:18-64
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:660:13-662:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:661:17-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:661:25-89
+activity#com.example.android.apis.accessibility.TaskListActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:665:9-672:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:667:19-66
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:666:19-69
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:665:19-65
+service#com.example.android.apis.accessibility.TaskBackService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:674:9-684:19
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:676:18-65
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:675:18-74
+	android:permission
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:677:18-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:674:18-63
+meta-data#android.accessibilityservice
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:681:13-683:58
+	android:resource
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:683:17-55
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:682:17-60
+activity#com.example.android.apis.accessibility.CustomViewAccessibilityActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:686:9-693:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:688:19-66
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:687:19-68
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:686:19-80
+activity#com.example.android.apis.app.LocalSample
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:697:9-702:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:697:51-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:697:19-50
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:698:13-701:29
+activity#com.example.android.apis.app.ContactsFilter
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:704:9-709:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:704:54-102
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:704:19-53
+activity#com.example.android.apis.app.NotifyWithText
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:714:9-719:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:714:54-101
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:714:19-53
+activity#com.example.android.apis.app.IncomingMessage
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:721:9-727:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:722:17-65
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:721:19-54
+activity#com.example.android.apis.app.IncomingMessageView
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:729:9-731:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:730:17-69
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:729:19-58
+activity#com.example.android.apis.app.IncomingMessageInterstitial
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:734:9-740:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:735:17-50
+	android:excludeFromRecents
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:739:17-50
+	android:launchMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:737:17-48
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:736:17-55
+	android:taskAffinity
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:738:17-40
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:734:19-66
+activity#com.example.android.apis.app.NotificationDisplay
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:747:9-752:20
+	android:excludeFromRecents
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:750:17-50
+	android:noHistory
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:751:17-41
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:748:17-57
+	android:taskAffinity
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:749:17-40
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:747:19-58
+activity#com.example.android.apis.app.StatusBarNotifications
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:754:9-761:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:755:17-60
+	android:launchMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:756:17-47
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:754:19-61
+service#com.example.android.apis.app.NotifyingService
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:763:9-57
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:763:18-54
+activity#com.example.android.apis.app.NotifyingController
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:765:9-770:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:765:59-120
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:765:19-58
+activity#com.example.android.apis.app.AlertDialogSamples
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:773:9-778:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:773:58-103
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:773:19-57
+activity#com.example.android.apis.app.SearchInvoke
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:787:9-806:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:788:19-56
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:787:19-51
+meta-data#android.app.default_searchable
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:796:13-797:66
+	android:value
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:797:24-63
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:796:24-69
+activity#com.example.android.apis.app.SearchQueryResults
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:811:9-830:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:812:19-63
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:811:19-57
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:820:13-823:29
+action#android.intent.action.SEARCH
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:821:17-71
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:821:25-68
+meta-data#android.app.searchable
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:828:13-829:61
+	android:resource
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:829:24-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:828:24-61
+provider#com.example.android.apis.app.SearchSuggestionSampleProvider
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:835:9-836:87
+	android:authorities
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:836:19-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:835:19-69
+activity#com.example.android.apis.app.LauncherShortcuts
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:861:9-868:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:862:19-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:861:19-56
+activity-alias#com.example.android.apis.app.CreateShortcuts
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:874:9-884:26
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:876:13-53
+	android:targetActivity
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:875:13-60
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:874:25-60
+intent-filter#action:name:android.intent.action.CREATE_SHORTCUT+category:name:android.intent.category.DEFAULT
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:879:13-882:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:880:17-80
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:880:25-77
+activity#com.example.android.apis.app.MenuInflateFromXml
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:888:9-893:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:888:58-101
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:888:19-57
+activity#com.example.android.apis.app.DeviceAdminSample
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:897:9-903:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:898:17-69
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:897:19-56
+receiver#com.example.android.apis.app.DeviceAdminSample$DeviceAdminSampleReceiver
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:906:9-915:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:907:17-60
+	android:permission
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:909:17-74
+	android:description
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:908:17-78
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:906:19-82
+meta-data#android.app.device_admin
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:910:13-911:70
+	android:resource
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:911:24-67
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:910:24-63
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:912:13-914:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:913:17-82
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:913:25-79
+activity#com.example.android.apis.app.VoiceRecognition
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:920:9-925:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:920:56-97
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:920:19-55
+activity#com.example.android.apis.app.TextToSpeechActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:929:9-934:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:929:60-98
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:929:19-59
+activity#com.example.android.apis.app.ActionBarMechanics
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:937:9-944:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:939:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:938:17-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:937:19-57
+activity#com.example.android.apis.app.ActionBarUsage
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:946:9-953:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:948:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:947:17-57
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:946:19-53
+activity#com.example.android.apis.app.ActionBarDisplayOptions
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:955:9-963:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:958:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:956:17-67
+	android:logo
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:957:17-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:955:19-62
+activity#com.example.android.apis.app.ActionBarTabs
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:965:9-972:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:967:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:966:17-56
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:965:19-52
+activity#com.example.android.apis.app.ActionBarSettingsActionProviderActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:974:9-981:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:976:17-64
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:975:17-76
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:974:19-78
+activity#com.example.android.apis.app.ActionBarShareActionProviderActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:983:9-990:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:985:17-64
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:984:17-73
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:983:19-75
+activity#com.example.android.apis.accessibility.AccessibilityNodeProviderActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:993:9-1000:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:995:17-64
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:994:17-68
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:993:19-82
+receiver#com.example.android.apis.app.AppUpdateReceiver
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1005:9-1009:20
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1005:19-56
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1006:13-1008:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1007:17-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1007:25-81
+activity#com.example.android.apis.preference.FragmentPreferences
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1016:9-1023:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1018:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1017:17-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1016:19-65
+activity#com.example.android.apis.preference.PreferenceWithHeaders
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1025:9-1032:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1027:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1026:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1025:19-67
+activity#com.example.android.apis.preference.PreferencesFromXml
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1034:9-1040:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1035:17-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1034:19-64
+activity#com.example.android.apis.preference.PreferencesFromCode
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1042:9-1048:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1043:17-62
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1042:19-65
+activity#com.example.android.apis.preference.AdvancedPreferences
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1050:9-1056:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1051:17-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1050:19-65
+activity#com.example.android.apis.preference.LaunchingPreferences
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1058:9-1064:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1059:17-62
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1058:19-66
+activity#com.example.android.apis.preference.PreferenceDependencies
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1066:9-1072:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1067:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1066:19-68
+activity#com.example.android.apis.preference.DefaultValues
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1074:9-1079:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1074:60-98
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1074:19-59
+activity#com.example.android.apis.preference.SwitchPreference
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1081:9-1088:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1083:17-64
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1082:17-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1081:19-62
+activity#com.example.android.apis.content.ClipboardSample
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1094:9-1101:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1096:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1095:17-59
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1094:19-58
+activity#com.example.android.apis.content.ExternalStorage
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1103:9-1109:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1103:59-108
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1103:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.EMBED+category:name:android.intent.category.SAMPLE_CODE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1104:13-1108:29
+category#android.intent.category.EMBED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1107:17-74
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1107:27-71
+activity#com.example.android.apis.content.StyledText
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1111:9-1117:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1111:54-98
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1111:19-53
+activity#com.example.android.apis.content.ResourcesLayoutReference
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1119:9-1126:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1120:17-76
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1119:19-67
+activity#com.example.android.apis.content.ResourcesWidthAndHeight
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1128:9-1136:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1130:17-60
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1129:17-76
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1128:19-66
+activity#com.example.android.apis.content.ResourcesSmallestWidth
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1138:9-1146:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1140:17-60
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1139:17-74
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1138:19-65
+activity#com.example.android.apis.content.ReadAsset
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1148:9-1154:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1148:53-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1148:19-52
+activity#com.example.android.apis.content.ResourcesSample
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1156:9-1161:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1156:59-101
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1156:19-58
+activity#com.example.android.apis.content.PickContact
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1163:9-1168:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1163:55-100
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1163:19-54
+activity#com.example.android.apis.content.ChangedContacts
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1170:9-1175:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1170:59-107
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1170:19-58
+activity#com.example.android.apis.content.InstallApk
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1177:9-1183:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1178:17-60
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1177:54-98
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1177:19-53
+provider#com.example.android.apis.content.FileProvider
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1185:9-1187:65
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1187:19-62
+	android:authorities
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1186:19-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1185:19-55
+activity#com.example.android.apis.os.MorseCode
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1193:9-1198:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1193:48-77
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1193:19-47
+activity#com.example.android.apis.os.Sensors
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1200:9-1205:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1200:46-72
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1200:19-45
+activity#com.example.android.apis.os.TriggerSensors
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1207:9-1212:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1207:53-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1207:19-52
+activity#com.example.android.apis.os.RotationVectorDemo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1214:9-1219:20
+	android:screenOrientation
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1214:93-129
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1214:57-91
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1214:19-56
+activity#com.example.android.apis.os.SmsMessagingDemo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1221:9-1226:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1221:55-87
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1221:19-54
+activity#com.example.android.apis.os.SmsReceivedDialog
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1228:9-1230:57
+	android:launchMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1230:19-54
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1229:19-78
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1228:19-55
+receiver#com.example.android.apis.os.SmsMessageReceiver
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1232:9-1236:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1232:57-80
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1232:19-56
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1233:13-1235:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1234:17-82
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1234:25-79
+activity#com.example.android.apis.animation.AnimationLoading
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1242:9-1250:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1245:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1243:17-50
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1244:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1242:19-61
+activity#com.example.android.apis.animation.AnimationCloning
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1252:9-1260:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1255:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1253:17-50
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1254:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1252:19-61
+activity#com.example.android.apis.animation.AnimationSeeking
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1262:9-1270:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1265:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1263:17-50
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1264:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1262:19-61
+activity#com.example.android.apis.animation.AnimatorEvents
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1272:9-1280:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1275:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1273:17-49
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1274:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1272:19-59
+activity#com.example.android.apis.animation.BouncingBalls
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1282:9-1290:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1285:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1283:17-57
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1284:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1282:19-58
+activity#com.example.android.apis.animation.CustomEvaluator
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1292:9-1300:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1295:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1293:17-59
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1294:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1292:19-60
+activity#com.example.android.apis.animation.ListFlipper
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1302:9-1309:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1304:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1303:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1302:19-56
+activity#com.example.android.apis.animation.ReversingAnimation
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1311:9-1319:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1314:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1312:17-52
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1313:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1311:19-63
+activity#com.example.android.apis.animation.MultiPropertyAnimation
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1321:9-1329:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1324:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1322:17-62
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1323:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1321:19-67
+activity#com.example.android.apis.animation.LayoutAnimations
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1331:9-1338:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1333:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1332:17-60
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1331:19-61
+activity#com.example.android.apis.animation.LayoutAnimationsHideShow
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1340:9-1347:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1342:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1341:17-63
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1340:19-69
+activity#com.example.android.apis.animation.LayoutAnimationsByDefault
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1349:9-1356:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1351:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1350:17-68
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1349:19-70
+activity#com.example.android.apis.animation.Transition3d
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1362:9-1367:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1362:58-103
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1362:19-57
+activity#com.example.android.apis.view.TextClockDemo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1373:9-1378:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1373:54-85
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1373:19-53
+activity#com.example.android.apis.view.ChronometerDemo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1379:9-1384:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1379:56-89
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1379:19-55
+activity#com.example.android.apis.view.WebView1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1385:9-1390:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1385:49-78
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1385:19-48
+activity#com.example.android.apis.view.RelativeLayout1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1392:9-1397:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1392:56-112
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1392:19-55
+activity#com.example.android.apis.view.RelativeLayout2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1399:9-1404:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1399:56-115
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1399:19-55
+activity#com.example.android.apis.view.LinearLayout1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1406:9-1412:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1407:19-74
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1406:19-53
+activity#com.example.android.apis.view.LinearLayout2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1414:9-1420:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1415:19-88
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1414:19-53
+activity#com.example.android.apis.view.LinearLayout3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1422:9-1428:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1423:19-83
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1422:19-53
+activity#com.example.android.apis.view.LinearLayout4
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1430:9-1436:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1431:19-76
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1430:19-53
+activity#com.example.android.apis.view.LinearLayout5
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1438:9-1444:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1439:19-77
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1438:19-53
+activity#com.example.android.apis.view.LinearLayout6
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1446:9-1452:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1447:19-78
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1446:19-53
+activity#com.example.android.apis.view.LinearLayout7
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1454:9-1460:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1455:19-77
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1454:19-53
+activity#com.example.android.apis.view.LinearLayout8
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1462:9-1468:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1463:19-73
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1462:19-53
+activity#com.example.android.apis.view.LinearLayout9
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1470:9-1476:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1471:19-79
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1470:19-53
+activity#com.example.android.apis.view.LinearLayout10
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1478:9-1484:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1479:19-82
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1478:19-54
+activity#com.example.android.apis.view.CustomLayoutActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1486:9-1492:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1487:19-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1486:19-60
+activity#com.example.android.apis.view.RadioGroup1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1494:9-1499:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1494:52-85
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1494:19-51
+activity#com.example.android.apis.view.ScrollView1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1501:9-1506:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1501:52-101
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1501:19-51
+activity#com.example.android.apis.view.ScrollView2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1508:9-1513:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1508:52-100
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1508:19-51
+activity#com.example.android.apis.view.HorizontalScrollView1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1515:9-1520:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1515:62-112
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1515:19-61
+activity#com.example.android.apis.view.Tabs1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1522:9-1527:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1522:46-89
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1522:19-45
+activity#com.example.android.apis.view.Tabs2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1529:9-1534:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1529:46-94
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1529:19-45
+activity#com.example.android.apis.view.Tabs3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1536:9-1541:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1536:46-93
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1536:19-45
+activity#com.example.android.apis.view.Tabs4
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1543:9-1549:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1543:46-90
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1544:19-55
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1543:19-45
+activity#com.example.android.apis.view.Tabs5
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1551:9-1556:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1551:46-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1551:19-45
+activity#com.example.android.apis.view.Tabs6
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1558:9-1563:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1558:46-89
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1558:19-45
+activity#com.example.android.apis.view.InternalSelectionScroll
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1565:9-1570:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1565:64-126
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1565:19-63
+activity#com.example.android.apis.view.TableLayout1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1572:9-1577:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1572:53-104
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1572:19-52
+activity#com.example.android.apis.view.TableLayout2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1579:9-1584:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1579:53-110
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1579:19-52
+activity#com.example.android.apis.view.TableLayout3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1586:9-1591:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1586:53-111
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1586:19-52
+activity#com.example.android.apis.view.TableLayout4
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1593:9-1598:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1593:53-110
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1593:19-52
+activity#com.example.android.apis.view.TableLayout5
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1600:9-1605:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1600:53-123
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1600:19-52
+activity#com.example.android.apis.view.TableLayout6
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1607:9-1612:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1607:53-128
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1607:19-52
+activity#com.example.android.apis.view.TableLayout7
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1614:9-1619:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1614:53-114
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1614:19-52
+activity#com.example.android.apis.view.TableLayout8
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1621:9-1626:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1621:53-113
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1621:19-52
+activity#com.example.android.apis.view.TableLayout9
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1628:9-1633:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1628:53-112
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1628:19-52
+activity#com.example.android.apis.view.TableLayout10
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1635:9-1640:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1635:54-111
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1635:19-53
+activity#com.example.android.apis.view.TableLayout11
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1642:9-1647:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1642:54-107
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1642:19-53
+activity#com.example.android.apis.view.TableLayout12
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1649:9-1654:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1649:54-113
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1649:19-53
+activity#com.example.android.apis.view.GridLayout1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1656:9-1661:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1656:52-107
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1656:19-51
+activity#com.example.android.apis.view.GridLayout2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1663:9-1668:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1663:52-106
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1663:19-51
+activity#com.example.android.apis.view.GridLayout3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1670:9-1675:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1670:52-107
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1670:19-51
+activity#com.example.android.apis.view.Baseline1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1677:9-1682:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1677:50-95
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1677:19-49
+activity#com.example.android.apis.view.Baseline2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1684:9-1689:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1684:50-98
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1684:19-49
+activity#com.example.android.apis.view.Baseline3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1691:9-1696:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1691:50-98
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1691:19-49
+activity#com.example.android.apis.view.Baseline4
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1698:9-1703:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1698:50-102
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1698:19-49
+activity#com.example.android.apis.view.Baseline6
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1705:9-1710:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1705:50-102
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1705:19-49
+activity#com.example.android.apis.view.Baseline7
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1712:9-1717:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1712:50-100
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1712:19-49
+activity#com.example.android.apis.view.BaselineNested1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1719:9-1724:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1719:56-111
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1719:19-55
+activity#com.example.android.apis.view.BaselineNested2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1726:9-1731:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1726:56-111
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1726:19-55
+activity#com.example.android.apis.view.BaselineNested3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1733:9-1738:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1733:56-111
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1733:19-55
+activity#com.example.android.apis.view.ScrollBar1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1740:9-1745:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1740:51-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1740:19-50
+activity#com.example.android.apis.view.ScrollBar2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1747:9-1752:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1747:51-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1747:19-50
+activity#com.example.android.apis.view.ScrollBar3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1754:9-1759:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1754:51-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1754:19-50
+activity#com.example.android.apis.view.Visibility1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1761:9-1766:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1761:52-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1761:19-51
+activity#com.example.android.apis.view.List1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1768:9-1773:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1768:46-83
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1768:19-45
+activity#com.example.android.apis.view.List2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1775:9-1780:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1775:46-93
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1775:19-45
+activity#com.example.android.apis.view.List3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1782:9-1787:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1782:46-93
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1782:19-45
+activity#com.example.android.apis.view.List4
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1789:9-1794:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1789:46-89
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1789:19-45
+activity#com.example.android.apis.view.List5
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1796:9-1801:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1796:46-88
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1796:19-45
+activity#com.example.android.apis.view.List6
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1803:9-1808:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1803:46-99
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1803:19-45
+activity#com.example.android.apis.view.List7
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1810:9-1815:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1810:46-93
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1810:19-45
+activity#com.example.android.apis.view.List8
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1817:9-1822:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1817:46-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1817:19-45
+activity#com.example.android.apis.view.List9
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1824:9-1829:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1824:46-93
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1824:19-45
+activity#com.example.android.apis.view.List10
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1831:9-1836:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1831:47-97
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1831:19-46
+activity#com.example.android.apis.view.List11
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1838:9-1843:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1838:47-99
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1838:19-46
+activity#com.example.android.apis.view.List12
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1845:9-1850:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1845:47-89
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1845:19-46
+activity#com.example.android.apis.view.List13
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1852:9-1857:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1852:47-91
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1852:19-46
+activity#com.example.android.apis.view.List14
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1859:9-1864:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1859:47-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1859:19-46
+activity#com.example.android.apis.view.List15
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1866:9-1871:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1866:47-93
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1866:19-46
+activity#com.example.android.apis.view.List16
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1873:9-1878:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1873:47-100
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1873:19-46
+activity#com.example.android.apis.view.List17
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1880:9-1885:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1880:47-93
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1880:19-46
+activity#com.example.android.apis.view.ExpandableList1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1887:9-1892:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1887:56-112
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1887:19-55
+activity#com.example.android.apis.view.ExpandableList2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1894:9-1899:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1894:56-113
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1894:19-55
+activity#com.example.android.apis.view.ExpandableList3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1901:9-1906:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1901:56-112
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1901:19-55
+activity#com.example.android.apis.view.CustomView1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1908:9-1915:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1909:17-45
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1910:17-59
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1908:19-51
+activity#com.example.android.apis.view.Gallery1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1917:9-1922:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1917:49-88
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1917:19-48
+activity#com.example.android.apis.view.Gallery2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1924:9-1929:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1924:49-88
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1924:19-48
+activity#com.example.android.apis.view.Spinner1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1931:9-1936:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1931:49-78
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1931:19-48
+activity#com.example.android.apis.view.Grid1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1938:9-1943:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1938:46-85
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1938:19-45
+activity#com.example.android.apis.view.Grid2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1945:9-1950:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1945:46-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1945:19-45
+activity#com.example.android.apis.view.Grid3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1952:9-1958:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1953:19-63
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1952:19-45
+activity#com.example.android.apis.view.ImageView1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1960:9-1966:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1961:17-48
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1960:19-50
+activity#com.example.android.apis.view.ImageSwitcher1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1968:9-1974:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1969:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1968:19-54
+activity#com.example.android.apis.view.TextSwitcher1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1976:9-1982:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1977:17-51
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1976:19-53
+activity#com.example.android.apis.view.ImageButton1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1984:9-1990:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1985:17-50
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1984:19-52
+activity#com.example.android.apis.view.Animation1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1992:9-1997:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1992:51-88
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1992:19-50
+activity#com.example.android.apis.view.Animation2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1999:9-2004:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1999:51-87
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:1999:19-50
+activity#com.example.android.apis.view.Animation3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2006:9-2011:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2006:51-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2006:19-50
+activity#com.example.android.apis.view.LayoutAnimation1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2013:9-2018:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2013:57-108
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2013:19-56
+activity#com.example.android.apis.view.LayoutAnimation2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2020:9-2025:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2020:57-111
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2020:19-56
+activity#com.example.android.apis.view.LayoutAnimation3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2027:9-2032:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2027:57-112
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2027:19-56
+activity#com.example.android.apis.view.LayoutAnimation4
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2034:9-2039:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2034:57-108
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2034:19-56
+activity#com.example.android.apis.view.LayoutAnimation5
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2041:9-2046:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2041:57-113
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2041:19-56
+activity#com.example.android.apis.view.LayoutAnimation6
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2048:9-2053:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2048:57-109
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2048:19-56
+activity#com.example.android.apis.view.LayoutAnimation7
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2055:9-2060:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2055:57-116
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2055:19-56
+activity#com.example.android.apis.view.Controls1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2062:9-2069:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2063:19-64
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2064:19-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2062:19-49
+activity#com.example.android.apis.view.Controls2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2071:9-2078:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2072:19-63
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2073:19-55
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2071:19-49
+activity#com.example.android.apis.view.Controls3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2080:9-2088:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2083:19-59
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2081:19-69
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2082:19-66
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2080:19-49
+activity#com.example.android.apis.view.Controls4
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2090:9-2098:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2093:19-59
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2091:19-68
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2092:19-60
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2090:19-49
+activity#com.example.android.apis.view.Controls5
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2100:9-2107:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2101:19-65
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2102:19-53
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2100:19-49
+activity#com.example.android.apis.view.Controls6
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2109:9-2116:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2110:19-70
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2111:19-51
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2109:19-49
+activity#com.example.android.apis.view.Buttons1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2118:9-2124:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2119:17-46
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2118:19-48
+activity#com.example.android.apis.view.AutoComplete1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2126:9-2131:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2126:54-103
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2126:19-53
+activity#com.example.android.apis.view.AutoComplete2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2133:9-2138:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2133:54-106
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2133:19-53
+activity#com.example.android.apis.view.AutoComplete3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2140:9-2145:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2140:54-99
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2140:19-53
+activity#com.example.android.apis.view.AutoComplete4
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2147:9-2152:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2147:54-101
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2147:19-53
+activity#com.example.android.apis.view.AutoComplete5
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2154:9-2159:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2154:54-111
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2154:19-53
+activity#com.example.android.apis.view.AutoComplete6
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2161:9-2166:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2161:54-107
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2161:19-53
+activity#com.example.android.apis.view.ProgressBar1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2168:9-2173:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2168:53-102
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2168:19-52
+activity#com.example.android.apis.view.ProgressBar2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2175:9-2180:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2175:53-97
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2175:19-52
+activity#com.example.android.apis.view.ProgressBar3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2182:9-2187:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2182:53-98
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2182:19-52
+activity#com.example.android.apis.view.ProgressBar4
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2189:9-2194:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2189:53-103
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2189:19-52
+activity#com.example.android.apis.view.SeekBar1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2196:9-2201:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2196:49-79
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2196:19-48
+activity#com.example.android.apis.view.RatingBar1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2203:9-2208:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2203:51-83
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2203:19-50
+activity#com.example.android.apis.view.Focus1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2210:9-2215:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2210:47-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2210:19-46
+activity#com.example.android.apis.view.Focus2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2217:9-2222:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2217:47-88
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2217:19-46
+activity#com.example.android.apis.view.Focus3
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2224:9-2229:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2224:47-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2224:19-46
+activity#com.example.android.apis.view.InternalSelectionFocus
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2231:9-2236:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2231:63-112
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2231:19-62
+activity#com.example.android.apis.view.Focus5
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2238:9-2243:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2238:47-100
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2238:19-46
+activity#com.example.android.apis.view.WindowFocusObserver
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2245:9-2251:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2246:19-71
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2245:19-59
+activity#com.example.android.apis.view.DateWidgets1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2253:9-2258:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2253:53-97
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2253:19-52
+activity#com.example.android.apis.view.DateWidgets2
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2260:9-2265:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2260:53-97
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2260:19-52
+activity#com.example.android.apis.view.PopupMenu1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2267:9-2272:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2267:51-83
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2267:19-50
+activity#com.example.android.apis.view.SearchViewActionBar
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2274:9-2282:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2274:60-104
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2275:17-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2274:19-59
+activity#com.example.android.apis.view.SearchViewAlwaysVisible
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2284:9-2292:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2284:64-113
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2285:17-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2284:19-63
+activity#com.example.android.apis.view.SearchViewFilterMode
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2294:9-2300:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2294:61-101
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2295:17-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2294:19-60
+activity#com.example.android.apis.view.RotatingButton
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2302:9-2307:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2302:55-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2302:19-54
+activity#com.example.android.apis.view.SecureView
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2309:9-2314:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2309:51-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2309:19-50
+activity#com.example.android.apis.view.SplitTouchView
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2316:9-2321:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2316:55-107
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2316:19-54
+activity#com.example.android.apis.view.DragAndDropDemo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2323:9-2331:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2326:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2324:17-52
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2325:17-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2323:19-55
+activity#com.example.android.apis.view.GameControllerInput
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2333:9-2338:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2333:60-103
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2333:19-59
+activity#com.example.android.apis.view.Hover
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2340:9-2345:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2340:46-80
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2340:19-45
+activity#com.example.android.apis.view.SystemUIModes
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2347:9-2355:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2350:17-60
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2348:17-75
+	android:uiOptions
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2349:17-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2347:19-53
+activity#com.example.android.apis.view.SystemUIModesOverlay
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2357:9-2365:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2360:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2358:17-83
+	android:uiOptions
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2359:17-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2357:19-60
+activity#com.example.android.apis.view.ContentBrowserActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2367:9-2376:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2371:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2368:17-75
+	android:uiOptions
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2370:17-61
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2369:17-78
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2367:19-62
+activity#com.example.android.apis.view.VideoPlayerActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2378:9-2387:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2382:17-57
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2379:17-72
+	android:uiOptions
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2381:17-61
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2380:17-58
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2378:19-59
+activity#com.example.android.apis.view.Switches
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2389:9-2394:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2389:49-79
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2389:19-48
+activity#com.example.android.apis.graphics.kube.Kube
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2400:9-2406:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2400:54-93
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2401:17-110
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2400:19-53
+activity#com.example.android.apis.graphics.Compass
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2408:9-2413:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2408:52-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2408:19-51
+activity#com.example.android.apis.graphics.CameraPreview
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2415:9-2420:20
+	android:screenOrientation
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2415:97-134
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2415:58-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2415:19-57
+activity#com.example.android.apis.graphics.CompressedTextureActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2422:9-2430:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2423:17-70
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2425:17-110
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2424:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2422:19-69
+activity#com.example.android.apis.graphics.CubeMapActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2432:9-2440:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2433:17-60
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2435:17-110
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2434:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2432:19-59
+activity#com.example.android.apis.graphics.FrameBufferObjectActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2443:9-2451:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2444:17-71
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2446:17-110
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2445:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2443:19-69
+activity#com.example.android.apis.graphics.GLSurfaceViewActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2453:9-2461:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2454:17-65
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2456:17-110
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2455:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2453:19-65
+activity#com.example.android.apis.graphics.GLES20Activity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2463:9-2471:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2464:17-65
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2466:17-110
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2465:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2463:19-58
+activity#com.example.android.apis.graphics.MatrixPaletteActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2473:9-2480:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2474:17-75
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2475:17-110
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2473:19-65
+activity#com.example.android.apis.graphics.TranslucentGLSurfaceViewActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2482:9-2490:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2483:17-77
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2485:17-110
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2484:17-57
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2482:19-76
+activity#com.example.android.apis.graphics.TriangleActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2492:9-2500:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2493:17-69
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2495:17-110
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2494:17-65
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2492:19-60
+activity#com.example.android.apis.graphics.spritetext.SpriteTextActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2502:9-2510:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2503:17-63
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2505:17-110
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2504:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2502:19-73
+activity#com.example.android.apis.graphics.TouchRotateActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2512:9-2520:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2513:17-64
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2515:17-110
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2514:17-64
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2512:19-63
+activity#com.example.android.apis.graphics.PolyToPoly
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2522:9-2527:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2522:55-90
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2522:19-54
+activity#com.example.android.apis.graphics.ScaleToFit
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2529:9-2534:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2529:55-90
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2529:19-54
+activity#com.example.android.apis.graphics.RoundRects
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2536:9-2541:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2536:55-90
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2536:19-54
+activity#com.example.android.apis.graphics.ShapeDrawable1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2543:9-2548:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2543:59-106
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2543:19-58
+activity#com.example.android.apis.graphics.SurfaceViewOverlay
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2550:9-2556:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2551:17-61
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2550:19-62
+activity#com.example.android.apis.graphics.WindowSurface
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2558:9-2564:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2559:17-56
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2558:19-57
+activity#com.example.android.apis.graphics.TextAlign
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2566:9-2572:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2567:54-89
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2566:19-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2567:19-53
+activity#com.example.android.apis.graphics.Arcs
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2574:9-2579:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2574:49-78
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2574:19-48
+activity#com.example.android.apis.graphics.Patterns
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2581:9-2586:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2581:53-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2581:19-52
+activity#com.example.android.apis.graphics.Clipping
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2588:9-2594:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2589:53-86
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2588:19-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2589:19-52
+activity#com.example.android.apis.graphics.Layers
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2596:9-2601:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2596:51-82
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2596:19-50
+activity#com.example.android.apis.graphics.UnicodeChart
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2603:9-2609:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2604:57-94
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2603:19-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2604:19-56
+activity#com.example.android.apis.graphics.PathFillTypes
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2611:9-2616:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2611:58-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2611:19-57
+activity#com.example.android.apis.graphics.Pictures
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2618:9-2624:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2619:53-86
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2618:19-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2619:19-52
+activity#com.example.android.apis.graphics.Vertices
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2626:9-2632:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2627:53-86
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2626:19-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2627:19-52
+activity#com.example.android.apis.graphics.AnimateDrawables
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2634:9-2639:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2634:61-102
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2634:19-60
+activity#com.example.android.apis.graphics.SensorTest
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2641:9-2646:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2641:55-90
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2641:19-54
+activity#com.example.android.apis.graphics.AlphaBitmap
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2648:9-2653:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2648:56-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2648:19-55
+activity#com.example.android.apis.graphics.Regions
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2655:9-2660:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2655:52-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2655:19-51
+activity#com.example.android.apis.graphics.Sweep
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2662:9-2667:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2662:50-80
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2662:19-49
+activity#com.example.android.apis.graphics.BitmapMesh
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2669:9-2674:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2669:55-90
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2669:19-54
+activity#com.example.android.apis.graphics.MeasureText
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2676:9-2681:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2676:56-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2676:19-55
+activity#com.example.android.apis.graphics.Typefaces
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2683:9-2688:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2683:54-88
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2683:19-53
+activity#com.example.android.apis.graphics.FingerPaint
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2690:9-2695:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2690:56-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2690:19-55
+activity#com.example.android.apis.graphics.ColorMatrixSample
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2697:9-2702:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2697:62-98
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2697:19-61
+activity#com.example.android.apis.graphics.BitmapDecode
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2704:9-2710:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2705:57-94
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2704:19-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2705:19-56
+activity#com.example.android.apis.graphics.ColorFilters
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2712:9-2717:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2712:57-94
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2712:19-56
+activity#com.example.android.apis.graphics.CreateBitmap
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2719:9-2724:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2719:57-94
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2719:19-56
+activity#com.example.android.apis.graphics.DrawPoints
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2726:9-2732:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2727:55-86
+	android:hardwareAccelerated
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2726:19-54
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2727:19-54
+activity#com.example.android.apis.graphics.TouchPaint
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2734:9-2741:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2734:55-91
+	android:configChanges
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2736:17-130
+	android:theme
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2735:17-51
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2734:19-54
+activity#com.example.android.apis.graphics.BitmapPixels
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2743:9-2748:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2743:57-94
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2743:19-56
+activity#com.example.android.apis.graphics.Xfermodes
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2750:9-2755:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2750:54-88
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2750:19-53
+activity#com.example.android.apis.graphics.PathEffects
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2757:9-2762:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2757:56-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2757:19-55
+activity#com.example.android.apis.graphics.GradientDrawable1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2764:9-2769:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2764:62-112
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2764:19-61
+activity#com.example.android.apis.graphics.PurgeableBitmap
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2771:9-2776:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2771:60-113
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2771:19-59
+activity-alias#com.example.android.apis.Purgeable
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2778:8-2783:26
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2778:100-150
+	android:targetActivity
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2778:24-74
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2778:75-99
+activity#com.example.android.apis.graphics.DensityActivity
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2785:9-2790:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2785:60-92
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2785:19-59
+activity#com.example.android.apis.media.MediaPlayerDemo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2796:9-2801:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2796:57-90
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2796:19-56
+activity#com.example.android.apis.media.MediaPlayerDemo_Audio
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2803:9-2807:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2803:63-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2803:19-62
+intent-filter#category:name:android.intent.category.SAMPLE_CODE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2804:13-2806:29
+activity#com.example.android.apis.media.MediaPlayerDemo_Video
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2809:9-2813:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2809:63-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2809:19-62
+activity#com.example.android.apis.media.VideoViewDemo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2815:9-2820:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2815:55-86
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2815:19-54
+activity#com.example.android.apis.media.AudioFxDemo
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2822:9-2827:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2822:53-82
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2822:19-52
+receiver#com.example.android.apis.appwidget.ExampleAppWidgetProvider
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2833:9-2839:20
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2833:19-69
+meta-data#android.appwidget.provider
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2834:13-2835:66
+	android:resource
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2835:21-63
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2834:24-65
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2836:13-2838:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2837:17-84
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2837:25-81
+activity#com.example.android.apis.appwidget.ExampleAppWidgetConfigure
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2841:9-2845:20
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2841:19-70
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2842:13-2844:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2843:17-87
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2843:25-84
+receiver#com.example.android.apis.appwidget.ExampleBroadcastReceiver
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2847:9-2852:20
+	android:enabled
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2847:70-93
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2847:19-69
+intent-filter#action:name:android.intent.ACTION_TIME+action:name:android.intent.ACTION_TIMEZONE_CHANGED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2848:13-2851:29
+action#android.intent.ACTION_TIMEZONE_CHANGED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2849:17-81
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2849:25-78
+action#android.intent.ACTION_TIME
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2850:17-69
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2850:25-66
+activity#com.example.android.apis.text.Link
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2858:9-2863:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2858:45-73
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2858:19-44
+activity#com.example.android.apis.text.Marquee
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2865:9-2870:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2865:48-76
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2865:19-47
+activity#com.example.android.apis.text.LogTextBox1
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2872:9-2877:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2872:52-83
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2872:19-51
+activity#com.example.android.apis.nfc.ForegroundDispatch
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2879:9-2884:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2879:58-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2879:19-57
+activity#com.example.android.apis.nfc.TechFilter
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2886:9-2900:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2886:50-80
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2886:19-49
+intent-filter#action:name:android.nfc.action.TECH_DISCOVERED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2893:13-2895:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2894:17-77
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2894:25-74
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2897:13-2899:15
+	android:resource
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2898:17-51
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2897:24-73
+activity#com.example.android.apis.nfc.ForegroundNdefPush
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2902:9-2907:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2902:58-96
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2902:19-57
+activity#com.example.android.apis.security.KeyStoreUsage
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2909:9-2915:20
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2909:58-91
+	android:windowSoftInputMode
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2910:13-52
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2909:19-57
+instrumentation
+ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2918:5-2920:40
+	android:label
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2920:9-37
+	android:targetPackage
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2919:9-57
+	android:name
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml:2918:22-68
+uses-sdk
+INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+		ADDED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IOTstudy177\androidProject\ApiDemos\app\src\main\AndroidManifest.xml

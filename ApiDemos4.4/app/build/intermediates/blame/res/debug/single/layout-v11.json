@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

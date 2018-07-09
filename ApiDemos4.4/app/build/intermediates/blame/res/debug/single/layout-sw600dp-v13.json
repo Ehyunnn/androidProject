@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\resources_smallest_width_row.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\layout-sw600dp\\resources_smallest_width_row.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a805c629d4e4e8ce76e20ed4bdc9b03a56e8678\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\resources_smallest_width_inner.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\layout-sw600dp\\resources_smallest_width_inner.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a805c629d4e4e8ce76e20ed4bdc9b03a56e8678\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\resources_smallest_width_row.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\layout-sw600dp\\resources_smallest_width_row.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\resources_smallest_width_inner.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\layout-sw600dp\\resources_smallest_width_inner.xml"
+    }
+]

@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\IOTstudy177\\androidProject\\ApiDemos6.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kosta\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.2.0.aar\\83d13b1b5307d08cc280c7a4fe23289c\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "381",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "558"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kosta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\d434f60720f1e508edc8fcf9c186a0b7\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\IOTstudy177\\androidProject\\ApiDemos6.0\\app\\src\\main\\res\\values-land\\integers.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "2",
+                        "startOffsets": "837",
+                        "endColumns": "50",
+                        "endOffsets": "885"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "52",
+                        "endOffsets": "376"
+                    }
+                }
+            ]
+        }
+    ]
+}

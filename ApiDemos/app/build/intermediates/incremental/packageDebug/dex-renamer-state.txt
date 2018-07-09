@@ -1,0 +1,7 @@
+#Wed Mar 08 13:55:46 KST 2017
+base.0=C\:\\IOTstudy149\\androidProject\\ApiDemos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d5d6249a10bd9d04f9c6fbc74ced2715a58cfdf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\IOTstudy149\\androidProject\\ApiDemos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2b2538378a541e0ba5a58353e5f56a3b38983e37\\classes.dex
+base.1=C\:\\IOTstudy149\\androidProject\\ApiDemos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2b2538378a541e0ba5a58353e5f56a3b38983e37
+file.0=C\:\\IOTstudy149\\androidProject\\ApiDemos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d5d6249a10bd9d04f9c6fbc74ced2715a58cfdf\\classes.dex

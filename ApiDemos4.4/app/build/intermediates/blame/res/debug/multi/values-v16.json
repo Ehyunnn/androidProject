@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\values-v16\\bools.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 45,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 65,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\values-v16\\bools.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 45,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 65,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\IOTstudy177\\androidProject\\ApiDemos6.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kosta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\d434f60720f1e508edc8fcf9c186a0b7\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895,1317,1437,1569,1689,1752,1906,1969",
+                        "endLines": "6,7,8,14,20,21,22,23,24,27,28,29",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "326,397,480,890,1312,1432,1564,1684,1747,1901,1964,2096"
+                    },
+                    "to": {
+                        "startLines": "3,8,9,10,16,22,23,24,25,26,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "108,384,455,538,948,1370,1490,1622,1742,1805,1959,2022",
+                        "endLines": "7,8,9,15,21,22,23,24,25,28,29,30",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "379,450,533,943,1365,1485,1617,1737,1800,1954,2017,2149"
+                    }
+                },
+                {
+                    "source": "C:\\IOTstudy177\\androidProject\\ApiDemos6.0\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "790",
+                        "endColumns": "77",
+                        "endOffsets": "863"
+                    },
+                    "to": {
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "2154",
+                        "endColumns": "76",
+                        "endOffsets": "2226"
+                    }
+                },
+                {
+                    "source": "C:\\IOTstudy177\\androidProject\\ApiDemos6.0\\app\\src\\main\\res\\values-v14\\bools.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "749",
+                        "endColumns": "52",
+                        "endOffsets": "797"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                }
+            ]
+        }
+    ]
+}

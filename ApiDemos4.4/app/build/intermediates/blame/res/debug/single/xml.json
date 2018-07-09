@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_headers.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\preference_headers.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\filter_nfc.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_lock_wipe.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\device_admin_lock_wipe.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_quality.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\device_admin_quality.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragmented_preferences_inner.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\fragmented_preferences_inner.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragmented_preferences_inner.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\fragmented_preferences_inner.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\filter_nfc.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_general.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\device_admin_general.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_expiration.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\device_admin_expiration.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_encryption.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\device_admin_encryption.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_headers.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\device_admin_headers.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\taskbackconfig.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\taskbackconfig.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragmented_preferences.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\fragmented_preferences.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_switch.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\preference_switch.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_headers.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\device_admin_headers.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\taskbackconfig.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\taskbackconfig.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_provider.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\appwidget_provider.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_lock_wipe.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\device_admin_lock_wipe.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragmented_preferences.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\fragmented_preferences.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\default_values.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\default_values.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_dependencies.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\preference_dependencies.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\advanced_preferences.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\advanced_preferences.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_encryption.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\device_admin_encryption.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\default_values.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\default_values.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_switch.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\preference_switch.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_provider.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\appwidget_provider.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_dependencies.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\preference_dependencies.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_headers.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\preference_headers.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_general.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\device_admin_general.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\advanced_preferences.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\advanced_preferences.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_quality.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\xml\\device_admin_quality.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_expiration.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\xml\\device_admin_expiration.xml"
+    }
+]

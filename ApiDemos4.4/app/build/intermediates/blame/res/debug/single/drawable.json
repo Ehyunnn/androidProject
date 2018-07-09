@@ -1,0 +1,794 @@
+[
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magnifying_glass.png",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\magnifying_glass.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_5.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\shape_5.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo1.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\photo1.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon48x48_1.png",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\icon48x48_1.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_1.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_thumb_1.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_6.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\gallery_photo_6.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animated_gif.gif",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\animated_gif.gif"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hover_background_active.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\hover_background_active.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_5.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\gallery_photo_5.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stylogo160dpi.png",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\stylogo160dpi.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_1.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_thumb_1.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_opaque_box.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\black_opaque_box.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_5.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_5.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo3.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\photo3.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_background_1.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\gallery_background_1.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\box.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\box.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_3.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_thumb_3.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_1.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_1.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_0.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_0.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_box.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\black_box.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo5.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\photo5.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magnifying_glass.png",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\magnifying_glass.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_1.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\gallery_photo_1.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_7.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\gallery_photo_7.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_3.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\shape_3.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_box.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\black_box.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_5.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_thumb_5.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_8.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\gallery_photo_8.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo160dpi.png",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\logo160dpi.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a805c629d4e4e8ce76e20ed4bdc9b03a56e8678\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_4.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\shape_4.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_vertical_track.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\scrollbar_vertical_track.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_2.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_2.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo160dpi.png",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\logo160dpi.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reslogo160dpi.png",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\reslogo160dpi.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_7.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_thumb_7.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beach.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\beach.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a805c629d4e4e8ce76e20ed4bdc9b03a56e8678\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_4.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_thumb_4.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\picture_frame.png",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\picture_frame.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npatch160dpi.9.png",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\npatch160dpi.9.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo1.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\photo1.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hover_background_inactive.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\hover_background_inactive.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_5.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\shape_5.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_1.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\gallery_photo_1.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hover_background_active.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\hover_background_active.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_2.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\gallery_photo_2.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_1.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\shape_1.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo6.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\photo6.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo6.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\photo6.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_6.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_6.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_3.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\gallery_photo_3.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reslogo160dpi.png",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\reslogo160dpi.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon48x48_1.png",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\icon48x48_1.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_3.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_thumb_3.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_opaque_box.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\black_opaque_box.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npatch160dpi.9.png",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\npatch160dpi.9.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo5.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\photo5.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a805c629d4e4e8ce76e20ed4bdc9b03a56e8678\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\picture_frame.png",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\picture_frame.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_7.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_7.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_2.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_thumb_2.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_1.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_1.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_0.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_0.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_progress.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\circular_progress.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_0.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_thumb_0.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a805c629d4e4e8ce76e20ed4bdc9b03a56e8678\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_0.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_thumb_0.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_background_1.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\gallery_background_1.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_vertical_track.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\scrollbar_vertical_track.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_6.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\gallery_photo_6.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_7.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\gallery_photo_7.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frog.gif",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\frog.gif"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a805c629d4e4e8ce76e20ed4bdc9b03a56e8678\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smlnpatch160dpi.9.png",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\smlnpatch160dpi.9.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_7.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_7.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_8.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\gallery_photo_8.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_4.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\shape_4.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hover_background.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\hover_background.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_vertical_thumb.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\box_white.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\box_white.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_2.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\shape_2.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_4.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_thumb_4.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo4.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\photo4.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_5.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_5.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_6.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_6.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beach.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\beach.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smlnpatch160dpi.9.png",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\smlnpatch160dpi.9.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_4.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\gallery_photo_4.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_2.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_thumb_2.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_5.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\gallery_photo_5.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_box.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\filled_box.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\box_white.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\box_white.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_vertical_thumb.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stylogo160dpi.png",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\stylogo160dpi.png"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_6.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_thumb_6.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo3.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\photo3.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_2.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\gallery_photo_2.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a805c629d4e4e8ce76e20ed4bdc9b03a56e8678\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_3.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_3.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo2.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\photo2.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hover_background.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\hover_background.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_6.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_thumb_6.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_2.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_2.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloons.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\balloons.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_7.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_thumb_7.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_4.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_4.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animated_gif.gif",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\animated_gif.gif"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo4.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\photo4.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frog.gif",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\frog.gif"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_2.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\shape_2.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_1.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\shape_1.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_4.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\gallery_photo_4.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_3.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\shape_3.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\box.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\box.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_progress.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\circular_progress.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery_photo_3.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\gallery_photo_3.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_box.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\filled_box.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\photo2.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\photo2.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\balloons.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\balloons.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_4.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\drawable\\sample_4.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hover_background_inactive.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\hover_background_inactive.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_thumb_5.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_thumb_5.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_3.jpg",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\drawable\\sample_3.jpg"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a2c586d591068cdd6f97d94dbab24130afdb8888\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    }
+]

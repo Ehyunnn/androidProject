@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\transition\\changebounds.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\transition\\changebounds.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadeout_sequential.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\transition\\changebounds_fadeout_sequential.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadein_together.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\transition\\changebounds_fadein_together.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadeout_sequential.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\transition\\changebounds_fadeout_sequential.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadein_together.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\transition\\changebounds_fadein_together.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\build\\intermediates\\res\\merged\\debug\\transition\\transitions_mgr.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\development-android-4.4.4_r2.0.1-samples-ApiDemos.tar\\app\\src\\main\\res\\transition\\transitions_mgr.xml"
+    },
+    {
+        "merged": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\build\\intermediates\\res\\merged\\debug\\transition\\transitions_mgr.xml",
+        "source": "C:\\IOTstudy149\\androidProject\\ApiDemos4.4\\app\\src\\main\\res\\transition\\transitions_mgr.xml"
+    }
+]

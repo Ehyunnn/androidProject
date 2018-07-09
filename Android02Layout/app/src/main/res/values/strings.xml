@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android02Layout</string>
+    <string name="btn_insert">회원가입</string>
+    <string name="btn_selectAll">목록보기</string>
+    <string name="btn_insertOK">입력완료</string>
+    <string name="btn_updateOK">수정완료</string>
+    <string name="btn_deleteOK">삭제완료</string>
+</resources>
